@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rb/static/css/main.08f45505.css",
-    "main.js": "/rb/static/js/main.7337893d.js",
+    "main.js": "/rb/static/js/main.a984c99c.js",
     "static/js/787.eccd0e5e.chunk.js": "/rb/static/js/787.eccd0e5e.chunk.js",
     "static/media/night_city.png": "/rb/static/media/night_city.2e777682b84af9225862.png",
     "static/media/barber2.jpg": "/rb/static/media/barber2.708e5c6aa346b90ecd97.jpg",
@@ -9,11 +9,11 @@
     "static/media/barber1.jpg": "/rb/static/media/barber1.c0107bb4320714970325.jpg",
     "index.html": "/rb/index.html",
     "main.08f45505.css.map": "/rb/static/css/main.08f45505.css.map",
-    "main.7337893d.js.map": "/rb/static/js/main.7337893d.js.map",
+    "main.a984c99c.js.map": "/rb/static/js/main.a984c99c.js.map",
     "787.eccd0e5e.chunk.js.map": "/rb/static/js/787.eccd0e5e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08f45505.css",
-    "static/js/main.7337893d.js"
+    "static/js/main.a984c99c.js"
   ]
 }
